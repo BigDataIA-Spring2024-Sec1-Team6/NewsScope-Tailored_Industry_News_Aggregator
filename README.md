@@ -17,6 +17,7 @@
 
 **Architecture Diagram**
 
+![Final_ProjDiag1 drawio](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/f34ace7b-0c57-46f0-99ee-e9a61ed2cffd)
 
 
 
