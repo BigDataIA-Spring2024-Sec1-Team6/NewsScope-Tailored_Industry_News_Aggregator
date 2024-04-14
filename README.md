@@ -91,6 +91,6 @@ Manya: Data validation, Airflow automation, Pinecone integration
 
 
 
-**Final Project Project Proposal Codelabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
+**Final Project Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
 
 
