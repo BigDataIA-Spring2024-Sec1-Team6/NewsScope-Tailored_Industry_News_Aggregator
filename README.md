@@ -83,11 +83,11 @@
 **Resources and Team**
 Akshita: User Interface development with Streamlit, OpenAI integration for NLQI
 
-Osborne: Data Collection with Beautiful Soup, APIs, and data storage
+Osborne: Data Collection with Beautiful Soup, APIs, Dockerisation & Hosting
 
-Smithi: DBT data transformation, OpenAI NLQI integration, cloud hosting
+Smithi: DBT data transformation, OpenAI NLQI integration, Pinecone integration
 
-Manya: Data validation, Airflow automation, Pinecone integration
+Manya: Data validation, Airflow automation, Hosting
 
 
 
