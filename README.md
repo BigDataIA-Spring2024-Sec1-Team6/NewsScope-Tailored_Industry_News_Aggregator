@@ -84,6 +84,7 @@ Streamlit GCP provider GitHub Python Apache Airflow Pinecone Langchain OpenAI Cl
 **TechStack**
 Python| Streamlit| GitHub| Apache Airflow| Pinecone| Langchain| OpenAI| Docker| GCP|
 
+
 **Project Flow :-**
 
  Start by registering in our application to personalize your news experience. Once registered, log in to discover the specific features :-
