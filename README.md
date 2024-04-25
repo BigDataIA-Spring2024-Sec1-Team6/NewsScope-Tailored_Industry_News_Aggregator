@@ -7,7 +7,7 @@ Streamlit GCP provider GitHub Python Apache Airflow Pinecone Langchain OpenAI Cl
 
 **Project Overview**
 
-* NewsScope will provide a tailored news aggregation service that allows users to view and track headlines specifically filtered by industry, such as entertainment, sports, space, and religion.
+* NewsScope will provide a tailored news aggregation service that allows users to view and track headlines specifically filtered by industry, such as entertainment, sports, politics, technology and fashion.
 
 * The platform will aggregate news from multiple sources, presenting a comprehensive and up-to-date feed of industry-specific news, leveraging advanced technologies and tools.
 
