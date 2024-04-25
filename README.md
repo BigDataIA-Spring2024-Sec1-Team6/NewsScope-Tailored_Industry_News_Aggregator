@@ -81,6 +81,19 @@ Streamlit GCP provider GitHub Python Apache Airflow Pinecone Langchain OpenAI Cl
 
 * Reduces information overload by distilling complex information into digestible summaries, enabling users to make faster and more informed decisions. Increases productivity by allowing users to consume more information in less time
 
+**TechStack**
+Python| Streamlit| GitHub| Apache Airflow| Pinecone| Langchain| OpenAI| Docker| GCP|
+
+**Project Flow :-**
+
+ Start by registering in our application to personalize your news experience. Once registered, log in to discover the specific features :-
+ 
+* Customized Keywords Recommendation :- If the user has a specific keywords in mind and wants news only related to those, he/she can store those keywords and the feed will only have similar content to it when he/she clicks on Recommend Headlines. If not, he /she can just click on Recommend Headlines to get the top news
+* Industry Specific Filters :- If the user has a specific industry which he wants to watch, he/she can chose it and the page would be further displayed with only the news from the speicifc industries
+* Summary Generation :- This is the page where he/she can select a specific industry and select a specific headline to summarize
+* Natural Language Query Search :- User can enter a news search query to get a specific output 
+  
+
 **Resources and Team**
 Akshita: User Interface development with Streamlit, OpenAI integration for NLQI
 
