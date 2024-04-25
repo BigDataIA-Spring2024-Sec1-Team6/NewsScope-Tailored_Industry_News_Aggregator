@@ -1,5 +1,5 @@
 Streamlit GCP provider GitHub Python Apache Airflow Pinecone Langchain OpenAI Clip Docker Amazon S3
-# FinalProj_Team6
+# NewsScope
 
 
 **Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
