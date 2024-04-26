@@ -14,14 +14,6 @@
 
 * This platform will leverage cutting-edge NLQI and AI technologies to provide a highly personalized and context-aware experience.
 
-
-**Architecture Diagram**
-
-![Final_ProjDiag1 drawio](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/f34ace7b-0c57-46f0-99ee-e9a61ed2cffd)
-
-
-
-
 **Technologies and Tools:**
 
 * **Data Collection:** Use BeautifulSoup for web scraping to collect news headlines from various online sources
@@ -37,6 +29,12 @@
 * **User Interface:** Streamlit for a user-friendly front-end
 
 * **Automation:** Apache Airflow for scheduling and orchestrating the ETL pipeline
+
+
+**Architecture Diagram**
+
+
+![Final_ProjDiag1 drawio (1)](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/b7bb47d7-2d70-4fbf-9ceb-5613919c8787)
 
 
 
