@@ -4,7 +4,7 @@
 ## **Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
 
 
-**Project Overview**
+**Project Overview** 
 
 * NewsScope will provide a tailored news aggregation service that allows users to view and track headlines specifically filtered by industry, such as entertainment, sports, politics, technology and fashion.
 
