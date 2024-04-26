@@ -112,6 +112,17 @@ Smithi: DBT data transformation, OpenAI NLQI integration, Pinecone integration
 Manya: Data validation, Airflow automation, Hosting
 
 
+WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+| Name               | Contribution %   | Contributions                                                          |
+|--------------------|------------------|------------------------------------------------------------------------|
+| Osborne Lopes      | 40%              | Data Collection with Beautiful Soup, Dockerisation & Hosting           |
+| Akshita Pathania   | 33.3%            | User Interface development with Streamlit, OpenAI integration for NLQI |
+| Smithi Parthiban   | 33.3%            | DBT data transformation, OpenAI NLQI integration, Pinecone integration |
+| Manimanya Reddy    | 33.3%            | Data validation, Airflow automation, Hosting                           |
+ 
+
+
 
 **Final Project Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
 
