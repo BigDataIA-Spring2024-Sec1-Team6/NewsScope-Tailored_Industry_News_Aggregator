@@ -147,7 +147,7 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 **Final Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
 
-**Final Project Codelab:** https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#2
+**Final Project Codelab:** [https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#2](https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#4)
 
 **Streamlit Deployment:** [34.74.168.206:8501](http://34.139.93.177:8501/)
 
