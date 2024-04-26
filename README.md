@@ -1,12 +1,12 @@
-# FinalProj_Team6
+# NewsScope
 
 
-**Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
+## **Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
 
 
-**Project Overview**
+### **Project Overview** 
 
-* NewsScope will provide a tailored news aggregation service that allows users to view and track headlines specifically filtered by industry, such as entertainment, sports, space, and religion.
+* NewsScope will provide a tailored news aggregation service that allows users to view and track headlines specifically filtered by industry, such as entertainment, sports, politics, technology and fashion.
 
 * The platform will aggregate news from multiple sources, presenting a comprehensive and up-to-date feed of industry-specific news, leveraging advanced technologies and tools.
 
@@ -14,19 +14,21 @@
 
 * This platform will leverage cutting-edge NLQI and AI technologies to provide a highly personalized and context-aware experience.
 
+### **Technologies and Tools:**
 
-**Architecture Diagram**
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge&logo=pinecone&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-![Final_ProjDiag1 drawio](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/f34ace7b-0c57-46f0-99ee-e9a61ed2cffd)
-
-
-
-
-**Technologies and Tools:**
 
 * **Data Collection:** Use BeautifulSoup for web scraping to collect news headlines from various online sources
 
-* **Storage:** Snowflake and AWS S3 for robust and scalable data management
+* **Storage:** Snowflake for robust and scalable data management
 
 * **Data Transformation:** Employ DBT for transforming and structuring scraped data, preparing it for access
 
@@ -39,8 +41,14 @@
 * **Automation:** Apache Airflow for scheduling and orchestrating the ETL pipeline
 
 
+### **Architecture Diagram**
 
-**Feature Design**
+
+![Final_ProjDiag1 drawio (1)](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/b7bb47d7-2d70-4fbf-9ceb-5613919c8787)
+
+
+
+### **Feature Design**
 
 * **Multi-Source Compilation:**
 
@@ -70,7 +78,7 @@
 
 
 
-**Deliverables**
+### **Deliverables**
 
 * A fully functional news aggregation system that filters and displays news according to specific industries such as technology, healthcare, finance, sports, and more.
 
@@ -80,17 +88,62 @@
 
 * Reduces information overload by distilling complex information into digestible summaries, enabling users to make faster and more informed decisions. Increases productivity by allowing users to consume more information in less time
 
-**Resources and Team**
-Akshita: User Interface development with Streamlit, OpenAI integration for NLQI
-
-Osborne: Data Collection with Beautiful Soup, APIs, and data storage
-
-Smithi: DBT data transformation, OpenAI NLQI integration, cloud hosting
-
-Manya: Data validation, Airflow automation, Pinecone integration
+### **TechStack**
+Python| Streamlit| GitHub| Apache Airflow| Pinecone| Langchain| OpenAI| Docker| GCP|
 
 
+### **Project Flow**
 
-**Final Project Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
+ Start by registering in our application to personalize your news experience. Once registered, log in to discover the specific features :-
+ 
+* Customized Keywords Recommendation :- If the user has a specific keywords in mind and wants news only related to those, he/she can store those keywords and the feed will only have similar content to it when he/she clicks on Recommend Headlines. If not, he /she can just click on Recommend Headlines to get the top news
+* Industry Specific Filters :- If the user has a specific industry which he wants to watch, he/she can chose it and the page would be further displayed with only the news from the speicifc industries
+* Summary Generation :- This is the page where he/she can select a specific industry and select a specific headline to summarize
+* Natural Language Query Search :- User can enter a news search query to get a specific output
+
+### **Learning Outcomes**
+
+* Python Programming Proficiency: Gain deeper expertise in Python, particularly in utilizing libraries and managing virtual environments.
+Learn to write and maintain Python scripts effectively for various tasks including data collection, processing, and interacting with APIs.
+
+* Web Scraping and Data Collection: Learn how to use BeautifulSoup to scrape data from websites. Understand the legal and ethical considerations of web scraping.
+
+* Data Storage and Management: Gain hands-on experience with cloud storage solutions like AWS S3 for storing large datasets. Learn how to use Snowflake for data warehousing, executing SQL queries, and managing scalable database solutions.
+
+* Data Transformation: Develop skills in using DBT (data build tool) for transforming and structuring data in a Snowflake environment. Understand the principles of data modeling and ETL (Extract, Transform, Load) processes.
+
+* Artificial Intelligence and NLP: Learn to implement AI features using OpenAI, such as generating text summaries or integrating language models for processing natural language queries.
+
+* Vector Search Implementation: Understand and implement vector search technology using Pinecone to handle sophisticated search operations, enabling quick retrieval of related articles based on vector similarities.
+
+* Building User Interfaces: Develop interactive web applications using Streamlit, enhancing user experience and making data-driven applications accessible.
+
+* Automation and Orchestration: Learn to automate and orchestrate workflows using Apache Airflow, managing the scheduling and execution of complex data pipelines efficiently.
+
+* DevOps and CI/CD: Familiarize with CI/CD principles and practices, potentially setting up pipelines that automate testing and deployment phases.
+
+* Collaborative and Version Control Skills: Enhance proficiency in using Git for version control, enabling efficient collaboration in software development projects.
+  
+
+
+WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+| Name               | Contribution %   | Contributions                                                                          |
+|--------------------|------------------|----------------------------------------------------------------------------------------|
+| Osborne Lopes      |                  | Data Collection with Beautiful Soup [web scrapping], Dockerisation & Hosting           |
+| Akshita Pathania   |                  | UI development with Streamlit, OpenAI integration for NLQI, OpenAI summary generation  |
+| Smithi Parthiban   |                  | Snowflake DB and table creation, DBT data transformation, OpenAI NLQI integration, OpenAI summary generation |
+| Manimanya Reddy    |                  | Test case creation, Airflow automation, Hosting, Documentation                         |
+ 
+
+
+
+**Final Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
+
+**Final Project Codelab:** https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#2
+
+**Streamlit Deployment:** http://34.74.168.206:8501
+
+**Airflow Deployment:** http://34.74.168.206:8080/home
 
 
