@@ -142,7 +142,7 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 **Final Project Codelab:** https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#2
 
-**Streamlit Deployment:** http://34.74.168.206:8501
+**Streamlit Deployment:** [34.74.168.206:8501](http://34.139.93.177:8501/)
 
 **Airflow Deployment:** http://34.74.168.206:8080/home
 
