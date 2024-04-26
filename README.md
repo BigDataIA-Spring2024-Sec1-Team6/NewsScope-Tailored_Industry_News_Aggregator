@@ -137,7 +137,7 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 | Name               | Contribution %   | Contributions                                                                          |
 |--------------------|------------------|----------------------------------------------------------------------------------------|
-| Osborne Lopes      |     33.33%       | Data Collection with Beautiful Soup [web scrapping], Dockerisation & Hosting           |
+| Osborne .V. Lopes  |     33.33%       | Data Collection with Beautiful Soup [web scrapping], Dockerisation & Hosting           |
 | Akshita Pathania   |     33.33%       | UI development with Streamlit, OpenAI integration for NLQI, OpenAI summary generation  |
 | Smithi Parthiban   |     33.33%       | Snowflake DB and table creation, DBT data transformation, OpenAI NLQI integration, OpenAI summary generation |
 | Manimanya Reddy    |     33.33%       | Test case creation, Airflow automation, Hosting, Documentation                         |
