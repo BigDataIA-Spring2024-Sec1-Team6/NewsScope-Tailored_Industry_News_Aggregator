@@ -1,7 +1,7 @@
 # NewsScope
 
 
-**Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
+## **Industry Specific News Aggregation Platform** - **NewsScope** : Tailored Industry News Aggregator
 
 
 **Project Overview**
