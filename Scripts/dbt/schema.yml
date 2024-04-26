@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: combinedNewsFeed
+    columns:
+      - name: headings
+        description: unique headlines from different news channels
+        tests:
+          - unique
+          - not_null
+      - name: content
+        description: unique content from different news channels
+        tests:                         
+          - not_null                   
+      - name: industry
+        description: name of the industry the article belongs to
+        tests:           
+          - not_null
+      - name: entry_date
+        description: entry date of each newsfeed
+        tests:          
+          - not_null
+      - name: image
+        description: urls for the image corresponding to the newsfeed
+        tests:          
+          - not_null
