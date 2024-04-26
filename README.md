@@ -44,7 +44,8 @@
 ### **Architecture Diagram**
 
 
-![Final_ProjDiag1 drawio (1)](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/b7bb47d7-2d70-4fbf-9ceb-5613919c8787)
+![Final_ProjDiag2 drawio](https://github.com/BigDataIA-Spring2024-Sec1-Team6/FinalProj_Team6/assets/114605149/12287ef4-5dd3-4eb6-b5c9-9050b359a6bc)
+
 
 
 
