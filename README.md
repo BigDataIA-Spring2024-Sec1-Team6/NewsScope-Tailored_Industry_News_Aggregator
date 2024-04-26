@@ -95,6 +95,7 @@ Python| Streamlit| GitHub| Apache Airflow| Pinecone| Langchain| OpenAI| Docker| 
   
 
 **Resources and Team**
+
 Akshita: User Interface development with Streamlit, OpenAI integration for NLQI
 
 Osborne: Data Collection with Beautiful Soup, Dockerisation & Hosting
