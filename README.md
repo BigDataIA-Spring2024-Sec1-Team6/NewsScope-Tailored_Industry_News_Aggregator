@@ -122,7 +122,15 @@ Learn to write and maintain Python scripts effectively for various tasks includi
 * Automation and Orchestration: Learn to automate and orchestrate workflows using Apache Airflow, managing the scheduling and execution of complex data pipelines efficiently
 
 * Collaborative and Version Control Skills: Enhance proficiency in using Git for version control, enabling efficient collaboration in software development projects
-  
+
+### **Steps to run NewsScope :-**
+* Clone the Github Repository on the VM on your Instance
+* Install Docker on the VM on that instance
+* Make sure your .env variables are set
+* Make Sure in your streamlit folder , you have secrets.toml with your credentials
+* Type "sudo make build-up" in your directory
+
+You will be able to access the application on your specific IP from GCP
 
 
 WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
