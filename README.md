@@ -27,7 +27,7 @@
 
 * **Data Collection:** Use BeautifulSoup for web scraping to collect news headlines from various online sources
 
-* **Storage:** Snowflake and AWS S3 for robust and scalable data management
+* **Storage:** Snowflake for robust and scalable data management
 
 * **Data Transformation:** Employ DBT for transforming and structuring scraped data, preparing it for access
 
