@@ -1,0 +1,14 @@
+streamlit>=1.10.0
+pandas>=1.4.0
+numpy>=1.22.0  
+scikit-learn>=1.0.1
+matplotlib>=3.4.3
+snowflake-connector-python 
+openai>=0.16.0
+toml>=0.10.2
+pinecone-client
+tiktoken
+langchain
+bcrypt
+python-dotenv
+grpcio

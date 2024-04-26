@@ -1,0 +1,6 @@
+requests
+python-dotenv
+snowflake-sqlalchemy
+bs4
+datetime
+apache-airflow==2.8.1
