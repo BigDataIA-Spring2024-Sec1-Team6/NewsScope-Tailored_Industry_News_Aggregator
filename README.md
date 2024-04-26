@@ -19,6 +19,7 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -147,6 +148,12 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 
 
-**Final Project Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
+**Final Project Proposal CodeLabs:** https://codelabs-preview.appspot.com/?file_id=1haYDcuQK1Oxnp8UQYAao4hnCNlk6h_lgOTI4obYumrI#0
+
+**Final Project Codelab:** https://codelabs-preview.appspot.com/?file_id=169lP8amGI_e_gYvi_ledgFYgdevNKTQijMiTe_b8FUQ#2
+
+**Streamlit Deployment:** http://34.74.168.206:8501
+
+**Airflow Deployment:** http://34.74.168.206:8080/home
 
 
