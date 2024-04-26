@@ -125,16 +125,6 @@ Learn to write and maintain Python scripts effectively for various tasks includi
 * Collaborative and Version Control Skills: Enhance proficiency in using Git for version control, enabling efficient collaboration in software development projects.
   
 
-### **Resources and Team**
-
-Akshita: User Interface development with Streamlit, OpenAI integration for NLQI
-
-Osborne: Data Collection with Beautiful Soup, Dockerisation & Hosting
-
-Smithi: DBT data transformation, OpenAI NLQI integration, Pinecone integration
-
-Manya: Data validation, Airflow automation, Hosting
-
 
 WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
